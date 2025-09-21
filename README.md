@@ -1,0 +1,1 @@
+# golang-static-analysis
